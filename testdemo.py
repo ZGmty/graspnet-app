@@ -191,5 +191,5 @@ def demo(data_dir):
     # pcd = o3d.io.read_point_cloud(point_cloud_file_path)
 
 if __name__ == '__main__':
-    data_dir='E:\graspnet\graspnet-baseline/doc/example_data/'
+    data_dir='/home/layercake/文档/GitHub/graspnet-app/doc/example_data/color.png'
     demo(data_dir)
